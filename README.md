@@ -2,7 +2,8 @@
 
 Fullstack-приложение для управления задачами с AI-помощником. Позволяет создавать задачи, отмечать их выполнение, фильтровать по статусу и разбивать сложные задачи на подзадачи с помощью GPT.
 
-![Dashboard](docs/screenshots/dashboard.png)
+<img width="732" height="729" alt="image" src="https://github.com/user-attachments/assets/d761c360-cf05-4746-84ea-45fb696f6b39" />
+
 
 ## Возможности
 
@@ -105,7 +106,14 @@ https://docs/screenshots/login.png
 https://docs/screenshots/dashboard.png
 
 AI-помощник
-https://docs/screenshots/ai.png
+<img width="361" height="300" alt="image" src="https://github.com/user-attachments/assets/eb5f2004-717b-4850-bd92-4add33711047" />
+<img width="735" height="833" alt="image" src="https://github.com/user-attachments/assets/f22fde18-947f-4e08-874e-dc957ae3525d" />
+<img width="735" height="722" alt="image" src="https://github.com/user-attachments/assets/47b0f76d-3067-43b9-b695-937a70ed898e" />\
+<img width="728" height="612" alt="image" src="https://github.com/user-attachments/assets/dcb6382f-08b3-474e-8e6d-8b031249dac2" />
+
+
+
+
 
 Структура проекта
 .
